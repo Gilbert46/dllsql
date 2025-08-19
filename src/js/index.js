@@ -9,7 +9,7 @@ a.innerHTML = "dowload_events"
 a.addEventListener(
     "click",
     function (ev) {
-      a.href = "./src/dll/sqlite3.dll"
+      a.href = "./src/dll/sqlite3.zip"
     },
     false,
   );
@@ -23,3 +23,4 @@ function Dllfile() {
 
 
 console.log("hello world")
+
